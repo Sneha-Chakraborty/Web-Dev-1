@@ -1,0 +1,22 @@
+.container {
+  margin-top: 10px;
+}
+
+input {
+  width: 50%;
+}
+
+.btn-space {
+  margin-right: 5px;
+}
+
+.btn-up {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.card {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+

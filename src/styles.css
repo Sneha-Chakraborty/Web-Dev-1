@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    margin: 0px;
+    padding: 0px;
+    height: 100vh;
+    font-family: 'Times New Roman', Times, serif;
+    background-repeat: no-repeat;
+    /*background: url("../../FRONTEND/Brands/Capturej.PNG");*/
+}

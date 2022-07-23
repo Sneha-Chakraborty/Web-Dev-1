@@ -1,0 +1,36 @@
+.btn-space {
+  margin-right: 5px;
+  color:rgb(253, 252, 254);
+  
+}
+
+.btn-primary {
+  background-color: rgb(133, 32, 228);
+}
+
+.btn-danger {
+  background-color: rgba(4, 207, 28, 0.724);
+  outline-color: rgba(4, 207, 28, 0.724);
+}
+
+
+.navbar-brand {
+  background-color: black;
+  color: whitesmoke;
+}
+
+.home-container {
+  height: 90.3vh;
+  display: flex;
+  flex-direction: wrap;
+  align-items: center;
+  background-color: rgb(4, 10, 72);
+  justify-content: center;
+  background-repeat: no-repeat;
+  /*background: url("FRONTEND\Brands\Capturej.PNG")*/;
+  background-size: 100%;
+}
+
+.btn-block {
+  margin-right: 10px;
+}
